@@ -94,6 +94,8 @@ Config.DebugMode = false -- Set to true to enable debug messages
 -- Discord Webhook
 Config.DiscordWebhookURL = "YOUR_DISCORD_WEBHOOK_URL"
 
+```
+
 ### Discord Webhook
 
 To enable Discord notifications for blip operations:
