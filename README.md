@@ -121,4 +121,4 @@ For support and updates, join our [Discord](#).
 
 ## License
 
-This project is licensed under the MIT License.
+aar-blips © 2024 by Aaron Cuesta is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
